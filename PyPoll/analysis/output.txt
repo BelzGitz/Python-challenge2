@@ -1,0 +1,5 @@
+
+Total Votes:3521001
+candidate votes: {'Khan': 2218231, 'Li': 492940, "O'Tooley": 105630, 'Correy': 704200}
+percentage votes:{'Khan': 63.0, 'Li': 14.0, "O'Tooley": 3.0, 'Correy': 20.0}
+Winner :Khan
